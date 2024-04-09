@@ -2,7 +2,7 @@
 นี่คือไฟล์ Google Colab ที่ผมทำขึ้นเพื่อไว้ใช้เอง แต่ก็อยากแจกให้เพื่อนๆได้ใช้งานกัน เพื่อให้มันได้เกิดประโยชน์สูงสุด
 ใน Project จะประกอบไปด้วย
 
-ComfyUI (Beta) : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Steper158X/SD-Colab/blob/main/%5Bsteper158x%5Dcomfyui.ipynb)
+ComfyUI : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Steper158X/SD-Colab/blob/main/%5Bsteper158x%5Dcomfyui.ipynb)
 
 Fooocus (Beta) : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Steper158X/SD-Colab/blob/main/%5Bsteper158x%5DFooocus.ipynb)
 
